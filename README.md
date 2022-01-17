@@ -1,4 +1,9 @@
-# FlipClockApp-Dark-LightMode
-Dark                                                                                                   |                                 Ligh
-:-------------------------:                                                                            |                                 :-------------------------:
-(https://user-images.githubusercontent.com/28267841/149824569-6c011b22-a52c-40c6-9046-ffce10b9f6a9.png)  (https://user-images.githubusercontent.com/28267841/149824619-2eee366a-4fc6-47f0-aad2-f8516193d2ce.png)
+SCREENSHOTS
+<p float="middle">
+  <img width="480" alt="dark" src="https://user-images.githubusercontent.com/28267841/149825614-f9a48c05-f5b7-4117-8613-f2a8d4eb2bea.png">
+  <img width="480" alt="light" src="https://user-images.githubusercontent.com/28267841/149825628-c62edde1-ef8b-4fba-9f83-b8e00722554c.png">
+</p>
+
+
+
+
